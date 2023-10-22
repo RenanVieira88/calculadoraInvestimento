@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class SimulacaoInvestimento {
-    public static void main(String[] args) {
+    public void simularInvestimento() {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Informe o investimento inicial: R$ ");
